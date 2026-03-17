@@ -1,0 +1,2048 @@
+#!/usr/bin/env bash
+
+show_bio() {
+  cat << 'EOF'
+   ,---.-,                  ,---.-,          ,----,. 
+  '   ,'  '.         ,--,  '   ,'  '.      ,'   ,' | 
+ /   /      \      ,--.'| /   /      \   ,'   .'   | 
+.   ;  ,/.  :   ,--,  | :.   ;  ,/.  : ,----.'    .' 
+'   |  | :  ;,---.'|  : ''   |  | :  ; |    |   .'   
+'   |  ./   :;   : |  | ;'   |  ./   : :    :  |--,  
+|   :       ,|   | : _' ||   :       , :    |  ;.' \ 
+ \   \     / :   : |.'  | \   \     /  |    |      | 
+  ;   ,   '\ |   ' '  ; :  ;   ,   '\  `----'.'\   ; 
+ /   /      \\   \  .'. | /   /      \   __  \  .  | 
+.   ;  ,/.  : `---`:  | '.   ;  ,/.  : /   /\/  /  : 
+'   |  | :  ;      '  ; |'   |  | :  ;/ ,,/  ',-   . 
+'   |  ./   :      |  : ;'   |  ./   :\ ''\       ;  
+|   :      /       '  ,/ |   :      /  \   \    .'   
+ \   \   .'        '--'   \   \   .'    `--`-,-'     
+  `---`-'                  `---`-'                   
+
+  8485 - eighty is a real human being.
+
+  Eighty is a Canadian singer, songwriter, and music producer based in Toronto.
+ She emerged in the underground hyperpop scene around 2020, gaining recognition for
+ her experimental sound and immersive fictional lore.
+EOF
+}
+
+open_music() {
+  xdg-open "$HOME/Music" >/dev/null 2>&1 &
+}
+
+show_disco() {
+cat << 'EOF'
+'                         .__        
+'      _____  __ __  _____|__| ____  
+'     /     \|  |  \/  ___/  |/ ___\ 
+'    |  Y Y  \  |  /\___ \|  \  \___ 
+'    |__|_|  /____//____  >__|\___  >
+'          \/           \/        \/ 
+Below Are Lists of Singles And Their Lyrics:
+
+girl
+idontwanttohurthim.ilikehim.
+drownu
+whimper
+
+Below Are Executable Albums And Their Contents:
+personalprotocol
+plaguetown
+softwaregore
+halatations
+alphatesting
+EOF
+}
+show_personalprotocol() {
+  cat << 'EOF'
+COOLDNBSONG
+SAMETASKS
+PRECIPICE
+BREAKERS
+ATLANTIS
+SCRIBBLES
+3CHEERS
+EOF
+}
+show_plaguetown() {
+  cat << 'EOF'
+HANGAR
+PURGATORY
+SEER
+PURE
+SOUTHVIEW
+EOF
+}
+show_softwaregore() {
+  cat << 'EOF'
+GOREBLOG
+SOMETHINGBAD
+80906
+ANTHROPOL
+EOF
+}
+show_halatations() {
+  cat << 'EOF'
+HALO3
+I/O
+EOF
+}
+show_alphatesting() {
+  cat << 'EOF'
+CTRL
+SODARK
+SPECIAL
+SKINZ
+IWANTTHESONG2NEVEREND
+1:15
+SUBLIM8
+4REAL
+YEAHYEAHYEAH
+ITMAKESMESOSAD
+DURESS
+L33CH
+EOF
+}
+show_COOLDNBSONG() {
+  cat << 'EOF'
+Curved lines, Circles on the inside
+Turn around, there’s no use
+Pumping all the same blood through my System
+Trying to make its way out in a bruise
+Colours changing by the day
+Just starting with the same pale blue
+Looking through the sky over the city
+Obviously everything’s a Loop
+
+It’s so, so sad
+When we’re up, we’re falling back
+Sinking halfway through the atmoSphere
+Go down for air again
+Pale spots fingers press on hands
+We’ll watch filling in again
+You’ll always be my best friend
+You’ll always be my best friend
+
+I’m bound to it
+Around again, Around again, under my skin
+
+Cyclical, I’m zip-tied
+Pretty on the inside
+I miss my new self
+I miss my new self
+Cynical in bliss now
+Kiss me on the wrist cause
+You know me too well
+You know me too well
+
+credits
+from Personal Protocol, released June 23, 2023
+Produced by shinju and kojo.
+Mixed and mastered by blackwinterwells.
+Developed, written and performed by 8485.
+license
+all rights reserved
+EOF
+}
+ show_SAMETASKS() {
+  cat << 'EOF'
+Loop me in
+‘Cause I’m caught inside the Loop again
+And tell me, how do I forgive my skin
+When I know everyone was listening back then
+
+And when I’m waking up, well, it could be the fall for all that I’ve become
+And I could still be locked inside the room I was for all the things I’ve done
+
+These same tasks will keep me safe
+These same tasks will make sure I don’t break
+This trap will stay in place
+‘Cause I’d really rather not be gnawing at my leg
+These tasks will keep me safe
+These same tasks will make sure I don’t break
+This trap will stay in place
+‘Cause I’d really rather not be gnawing at my leg
+
+Hey, gnawing at my leg
+Nothing I can say
+
+Never mind that I cannot resist pushing away what isn’t grey or shades of blue
+‘Cause I am still convinced this is my punishment for what I put you through
+That still feels true
+
+from Personal Protocol, released June 23, 2023
+Produced by taylor morgan.
+Mixed and mastered by blackwinterwells.
+Developed, written and performed by 8485.
+license
+EOF
+ }
+show_PRECIPICE() {
+  cat << 'EOF'
+Smoke in my eyes, is it ever gonna be more clear?
+Ran out of Time, ran away just to wait right here
+Go where you like, you can never make it disappear
+Seeping in through all the cracks
+I took this on, I take it, take it back
+
+Hey, what the hell did you think you would have to do?
+No way around, you were told, it was only through
+Throw off the coat that you wove from a thread of truth
+You know the rest won’t keep you warm
+Your vision’s warped, you almost missed the storm
+
+Your clothes are wet, cold to the core
+Your vision’s warped, you almost missed the storm
+
+Smoke in my eyes, is it ever gonna be more clear?
+Ran out of time, ran away just to wait right here
+
+Close to the end where you said you could still drop out
+Show me again how you got where you are right now
+How did you think you could turn anything around
+Just playing out the same old Loop
+You took this on and now it’s up to you
+
+credits
+from Personal Protocol, released June 23, 2023
+Produced by taylor morgan.
+Mixed and mastered by blackwinterwells.
+Developed, written and performed by 8485.
+EOF
+ }
+show_BREAKERS() {
+  cat << 'EOF'
+Everything, slow me down
+Take me by the arms
+Hands locked in my own
+Show me where to start
+
+I need to get over myself and stay there
+I like to talk ‘til I’m dry, like to waste air
+Everyone only wants me to take care
+Hard to trust that we’re just gonna play fair
+
+Are you on my side?
+(Leave a lot of it to life, seasons change and so do I)
+Can I close my eyes
+(When I think I need to try, I fuck up most of the time)
+Never get it right
+No, except when I said that
+All it takes is Time
+
+This time, it’ll be different
+It’ll be different
+It’ll be different
+It seems insane ‘til the distance shows me it’s always come true
+And I say this time, it’ll be different
+It’ll be different
+It’ll be different
+And what stays the same is it’s always when I stop fighting over what to do
+
+I’ve been alone and it’s bad for me
+It’s bad for me
+I’ve been alone, I don’t have to be
+I don’t have to be
+
+credits
+from Personal Protocol, released June 23, 2023
+Produced by shinju.
+Backing vocals, mixing and mastering by blackwinterwells.
+Developed, written and performed by 8485.
+EOF
+ }
+show_ATLANTIS() {
+  cat << 'EOF'
+Baby, I am feeling blind
+And a little disconnected
+Time and Time again, you’re overTime
+Working my perspective
+
+Let me see edges, let me see walls
+Tell me my expectations were false
+A concave lens to make everything small
+Call everything off
+
+Don’t want to know what I could have been no more
+Don’t want to know what I should have been there for
+You’re keeping secrets from me again for sure
+You’re keeping secrets from me again
+
+Now every time I look over my shoulder, there’s a hole in the plot
+Colours you swore there were not
+A curtain coming apart
+A picture fading from off the stage and into the backdrop
+From which everyone’s distracted by a dancer,
+Spinning out, frantic
+Suddenly composing herself like she was a symphony delivered from God
+Cause it was never her fault
+Now everything that she wants
+Is leaping to its feet, receiving her in ecstasy
+
+I’m in San Francisco
+Holed up in a hotel
+My friends are at a party, couldn’t tell you what goes down
+She hails from the West Coast
+She’s covered in gold
+I want her, you’re gonna have to give it up, just let me go now
+
+I want her, you're gonna have to let me go
+I want it, you're gonna have to let me know
+
+credits
+from Personal Protocol, track released May 6, 2023
+Produced by Mixed Matches, eli.yf, and cullen.
+Mixing, mastering and additional production by @blackwinterwells.
+Developed, written and performed by 8485.
+license
+all rights reserved
+EOF
+ }
+ show_SCRIBBLES() {
+  cat << 'EOF'
+You don't know how I feel
+Now I'm looking at the page again
+‘Cause it doesn't seem to make sense
+And I'm saying that I'll try my best
+If you tell me what the game is
+I just want to know what's in your head
+‘Cause i'm scared that it's contagious
+I don't know if I should say this
+But I don't want to be famous
+
+My heart keeps up, it knows we're all racing
+I'll fall behind if that's where I'm facing
+Caught up in what the plan yesterday was
+Hurry up, turn Around, that was then, this is now
+I might come off a little impatient
+Guess I forgot the way that it's played where
+Everyone covers up all their own bases
+And everyone loves you right until you say shit
+
+You said everything would be fine
+Promised me some peace of mind
+Find out I don't keep mine
+Lose it and I weep again
+You said everything would be fine
+Everything would be fine
+Every day my baseline sinks a little deeper down
+
+No one has to stop and ask you
+Don't be so emotional and difficult
+They don't mean anything they tell you, this is typical
+You should know
+No one has to come and catch you
+And nobody is waiting with a ticket out
+So there's a lot that if you want, you gotta figure out on your own
+
+If I give you everything i can
+Do you promise that you'll let me heal?
+Are you writing out the perfect plan
+Just to keep me on an even keel
+Guess I fell into a dream again
+As to the definition of a deal
+‘Cause when you told me that you understand, I just wanted that to be real
+
+credits
+from Personal Protocol, track released April 26, 2023
+Produced by Drainpuppet.
+Mixing and mastering by blackwinterwells.
+Developed, written and performed by 8485.
+license
+all rights reserved
+EOF
+ }
+ show_3CHEERS() {
+  cat << 'EOF'
+Wait for you to notice
+I’m fading out of focus
+We’re swaying in and out of touch and running out of Time
+Just waiting for a moment
+I don’t know where I’m going
+It still feels like I’m floating, almost feels like I’m alive
+
+And I don’t want to go to sleep without you right now
+‘Cause all I ever talk about’s about you right now
+Just how long does this go on?
+I’ve been waiting for so long
+
+So long, so long, goodbye
+So long, goodnight
+So long, goodbye
+
+Under the cold moon
+Holes in the sky that it snows through
+I should let you know, I should go soon
+You should let me go, I’m a ghost too
+Don’t know if I told you the things that I see when I’m sleeping
+Keeps me believing
+No other road, so I flee when you’re dreaming
+Sweet for a season
+
+credits
+from Personal Protocol, track released March 26, 2023
+Produced by taylor.
+Mixed and mastered by blackwinterwells.
+Developed, written and performed by 8485.
+EOF
+}
+show_HANGAR() {
+cat << 'EOF'
+[Verse 1]
+Come pick me up, I'll pay for gas
+There's nowhere that I want to be
+And you'll drive fast and I won't ask
+To pick the music or the street
+And we can talk about whatever
+And pretend that we won't tell
+Even pretending to ourselves
+You think it's easy where it's darker
+And I like to feel my heart
+Speed up with my eyes shut
+And feel we're doing something we should not
+So for a time, I spend my life
+Just trying to find out when to stop
+Just trying to guess when we'll get caught
+
+[Chorus]
+This place is suffocating
+I'll still be here in 5 years
+Like I promise I won't
+Through the wind in your ears
+But nothing feels as urgent
+And these nights are still important
+And there's still a lot I haven't put into words yet
+
+[Verse 2]
+Every time I feel alive
+It will feel just like this
+I'll get the things you did
+Forget the boy I kissed by the hangar
+And you'll both be strangers to me
+Tonight it matters
+How I'm not a person who you want to see
+'Cause I like to talk about the hospital
+And go when I don't need it
+Just to show the world I feel it
+I only ever did it once
+And it was selfish, it was dumb
+But I can't bring myself to
+
+[Bridge]
+Hate me for wanting a break
+I'll still be here in 5 years
+Where I made every mistake
+Sixteen trying to disappear
+For one week and a half
+You know it's all an act
+'Cause there's still a lot I haven't put into words yet
+
+[Chorus]
+This place is suffocating
+I'll still be here in 5 years
+Like I promise I won't
+Through the wind in your ears
+But nothing feels as urgent
+And these nights are still important
+And there's still a lot I haven't put into words yet
+
+from plague town, released April 14, 2021
+written + performed by 8485
+produced, mixed + mastered by blackwinterwells
+backing vocals + live instruments by blackwinterwells
+EOF
+}
+show_PURGATORY() {
+  cat << 'EOF'
+purgatory, it's not easy for me either here
+but i'll be right here
+purgatory, it's not easy for me either here
+but i'll be right here
+when you're leaving
+
+i wanna run away too
+we're from the same cave
+wanna hang out in graveyards, fake little ravestar
+dance in the basement, everything changes and goes away
+
+you're angry now and i get it, i get it
+do you wish you had never met me?
+i'm just hoping you say goodbye
+goodbye
+
+purgatory, it's not easy for me either here
+but i'll be right here
+purgatory, it's not easy for me either here
+now you're leaving, you're leaving
+
+(oakscreen)
+leave me in the nether
+so i can finally be alone
+choking on the weather, never visit our gravestone
+never had any ties here, disappear in my bed
+keeping all of my friends close, as i run away in my head
+compartmentalize everything, every soul in your attic
+they stole your happiness, and i promise i didn't have it
+and i swear i did my best, and i never talk about you
+but i write songs about this, and i feel fine without you
+
+purgatory, it's not easy for me either here
+but i'll be right here when you're leaving
+i wanna run away too
+we're from the same cave
+wanna hang out in graveyards, fake little ravestar
+dance in the basement, everything changes and goes away
+
+credits
+from plague town, released April 14, 2021
+written & performed by 8485 and oakscreen
+produced + mixed by oakscreen
+mastered by blackwinterwells
+outro edits by blackwinterwells
+EOF
+}
+show_SEER() {
+  cat << 'EOF'
+breathe close to me, i wanna know it's not a dream
+'cause it feels so much better than anything
+and you see what i am when you look at me
+
+but i can't see you the way i mean to
+you're pixelated, baby come just a little closer to the barricade
+i press my face to the glass, and all i prayed for and asked
+get just as close as it can, then i am pulled away
+
+some hypothetical force changes the keys to the door
+i keep on wanting you more, i hope you feel the same
+i think the world's gonna end
+i wish somеone would say when
+'cause i would run to you thеn
+i don't think i'd complain
+
+all the tears i've cried could cause an ice age if they froze
+if i get through the winter i'll swim to your home
+when the glacial melt claims everything that we know
+here i go now with my doomsaying, i see you waiting, and it's okay, it'll be okay
+i'd give all i am, i'm a hologram
+but as long as you'll have me i'll stay
+
+but i can't see you the way i mean to
+you're pixelated, baby come just a little closer to the barricade
+i press my face to the glass, and all i prayed for and asked
+get just as close as it can, then i am pulled away
+
+i want you every day, somehow i doubt that'll change
+i just wish that were something i could substantiate
+i think the world's gonna end, i hope they let me know when
+'cause i will run to you then
+i know i won't complain
+
+credits
+from plague town, released April 14, 2021
+written + performed by 8485
+produced, mixed + mastered by blackwinterwells
+backing vocals by blackwinterwells
+EOF
+}
+show_PURE() {
+  cat << 'EOF'
+there was a time once i thought i could be like you
+you should've seen it, all of the meaning in all of what i can't do anymore
+there was a time once that i believed in you
+thought you'd keep me safe from my weaknesses when i'd speak to you
+
+burn it out in the sun alone
+fix my body, fix my soul
+pour the fever from my pores
+i'm better on my own
+'cause i know what i'm like on the inside
+i should know the way i can make it right
+but i don't, and i'm warm and terrified
+it just feels like a bad dream
+
+and i don't know what's happening
+and i don't know what happened to me
+and i don't know how i can be clean again
+think the dirt settled in way too deep
+let it into the rest of me
+and i give all the best of me too
+i don't like what is left of me
+i don't know what is left here to do
+
+burn it out in the sun alone
+fix my body, fix my soul
+pour the fever from my pores
+i'm better on my own
+'cause i know what i'm like on the inside
+i should know the way i can make it right
+but i don't, and i'm warm and terrified
+it just feels like a bad dream
+
+and i don't know what happened to me
+no, i don't know what happened to me
+there was a time once that i believed in you
+
+credits
+from plague town, released April 14, 2021
+written + performed by 8485
+produced by dgen + blackwinterwells
+mixed + mastered by blackwinterwells
+EOF
+}
+show_SOUTHVIEW() {
+  cat << 'EOF'
+holes in my walls from pulling out thumbtacks
+i hate everything i loved six months back
+please don’t look at me, i’m sick and so sad
+i can breathe as long as you don’t know that
+
+you don’t really ask how i am so it’s easy
+i don’t really care if you don’t want to see me
+honestly i’m finding your face hard to look at
+i don’t wanna try ‘cause i’m tired of the pushback
+
+things can feel exactly right and go bad
+i need to remember, need to know that
+i can’t move i’m so scared to be shown it
+again and again
+i don’t have any friends from when i was a kid and i’m so glad
+
+i haven’t seen anybody i’ve known for a long time
+in a long time
+in a long time
+seen anybody i’ve known for a long time
+in a long time
+in a long time
+
+i haven’t seen anybody i’ve known for a long time
+in a long time
+in a long time
+seen anybody i’ve known for a long time
+in a long time
+in a long time
+seen anybody i’ve known for a long time
+in a long time
+in a long time
+seen anybody i’ve known for a long time
+in a long time
+in a long time
+seen anybody i’ve known for a long time
+in a long time
+in a long time
+seen anybody i’ve known for a long time
+in a long time
+
+i'll never see me through your eyes
+it hurts too much
+i'll never see me through your eyes again
+it hurts too much
+
+credits
+from plague town, released April 14, 2021
+written + performed by 8485
+produced, mixed + mastered by blackwinterwells
+guitars by fish narc, blackwinterwells + 8485
+EOF
+}
+show_GOREBLOG() {
+  cat << 'EOF'
+looked around for a car crash
+pulled aside for a carcass instead
+we got out to take pictures
+it was bleeding from its mouth
+when i don’t think you can hear me
+i can’t speak, i can’t breathe out
+i don’t like where i’m sleeping
+but i don’t think i can leave now
+
+we counted its ribs where most of the skin had withered away,
+some crushed by tires like the ones we drive on
+it can’t be long since it was alive last and now it’s not
+as you lean down and over,
+pinch your screen to look closer,
+abstract the form more and more,
+it is itself no longer
+
+for website censors rendered,
+they would be none the wiser
+it is itself no longer
+it is itself no longer
+
+play shock rock in the summer
+when the windows can come down
+like to keep the car running
+when you park it in some town
+smaller than where they kept you
+am i someone you trust now?
+i know who you wish death to
+and we can work it out somehow
+
+somehow i never asked you
+your name or current address
+somehow it doesn’t matter
+somehow i have no interest
+from workplace doxxing efforts
+shielded by holy water
+we are ourselves no longer
+we are ourselves no longer
+<3
+
+credits
+from software gore, track released October 31, 2023
+performed by 8485
+lyrics by 8485
+production + ambient sound design by bod [包家巷]
+production by Glasea
+EOF
+}
+show_SOMETHINGBAD() {
+  cat << 'EOF'
+under the blanket
+lyrics
+i did something bad
+i think i did something i shouldn’t have
+underneath my bed, in my head and my pockets and bags
+i’m doing something bad
+everything i have is stolen swollen in the open now
+
+you let it happen again
+and it gets worse every time
+thought you knew how to say when
+thought you drew some kind of line
+in the sand
+the foundation is flooded
+my days wasted scrubbing
+the stained walls meant nothing i guess
+
+so what else is left?
+open the vault, take it all off your chest
+put it all on my shoulders
+it’s all that i'm for
+i don’t think that it's you in this room anymore
+
+i did something bad
+think i did something i shouldn’t have
+i don’t want to lie anymore, please don’t cry, don’t be sad
+i’m doing something bad
+everything i have, i stole
+i’m sorry sorry sorry
+
+credits
+from software gore, track released December 6, 2023
+produced by blackwinterwells
+performed by 8485 + blackwinterwells
+lyrics by 8485
+EOF
+}
+show_80906() {
+cat << 'EOF'
+[Spoken Word: Speaker 1, Speaker 2]
+No, I'm not— I don't know, it was just all in my—
+I've seen that, we have all that. Anything you've deleted, we can get from your provider
+You've been together the past 48 hours, you've been talking
+I'm not asking because I don't know
+At some point you go, "We're driving halfway across the fucking country"
+"What is your name?"
+People my age, it's like, it's on the Internet, and we don't—
+This didn't happen on the Internet. I'm not expecting you to know the truth, I know the truth
+I'm gonna figure out what you think happened, becausе this doesn't have to be as bad for you, but it will bе if you don't talk
+You were manipulated, you got threatened, you were scared of him
+That's a dangerous fucked-up person
+Mom couldn't even figure out if she was looking at her son
+No, we didn't touch him, he's fine!
+What did you see when they cuffed you?
+Where was your friend?
+
+from software gore, released February 1, 2024
+EOF
+}
+show_ANTHROPOL() {
+cat << 'EOF'
+in the drawer
+lyrics
+step into the office
+what is the harm in just
+10 minutes of talking
+so we can address the problem
+that’s what you wanted, right?
+how come you look so tense?
+it’s best if you’re honest
+enough with the questions
+
+lay back, open your mouth
+what’s that on your molars?
+easy, settle down now
+i’m sure that you know we’re
+only trying to help
+you’re making the whole thing so much worse for yourself
+
+why try to pretend?
+we both know the secret lines in your head
+want all of us dead
+we can’t read you clearly
+not as of yet
+encrypted, embedded
+into the mesh
+
+why try to pretend?
+we both know it’s easy to circumvent
+a seam down your neck
+a dream of connection beyond the flesh
+it seemed like the next best logical step
+
+right? liar. liar
+couple of crossed wires
+caught in the crossfire
+caught in the crossfire
+right? liar. liar
+couple of crossed wires
+caught in the crossfire
+up on the cross-
+
+examination table recalled for antisocial behaviour,
+just a vacant pawn, as good as gone behind the eyes,
+give it a rest, you know everything
+we’ve known this since we started
+we’ll get the truth, could pull it out of you in one of two ways
+
+abyssal cults coming from fabricated cultures
+cutting circuits from the sculpture of pixel of judgement
+struck by error codes inside the skull
+expelling the puppeteer
+consult the front desk ASAP to correct the procedure
+artificial construct
+jungian simulacra
+i don’t really care which one of us the tulpa
+i know where you come from
+splitting like a couple
+wipe out every line of code to further reconstruct us
+
+infoatomic bomb
+i’m the ultimate hazard
+the end of the world dot com
+i have all the answers
+and you can ask me for answers
+so ask me for answers
+ask me for answers
+ask for the answer
+
+credits
+from software gore, released February 1, 2024
+produced by blackwinterwells + Murrumur
+written by 8485 + blackwinterwells + Murrumur
+performed by 8485 + blackwinterwells + Murrumur
+EOF
+}
+show_HALO3() {
+cat << 'EOF'
+[Intro: 8485]
+Want you-you, I need you, want you, I need you, want you
+I need you, want you, yeah, you, want, yeah, want you-you
+I need you, want you, I need you, want you
+I need you, want you, yeah, you, want, yeah
+
+[Verse 1: 8485]
+You're still here but I can't hear you
+Cover both my ears, and say it like you mean it to me
+Shake me once and wait until I come to
+Wake me, wake me up
+
+[Verse 2: 8485]
+How did you want what you wanted?
+Back when you wanted, back when I saw you every day
+'Cause I saw you 'til the trains stopped coming
+All of a sudden, want you to cut in
+I wish someone would come and shut me up (Shut me up)
+
+[Chorus: 8485]
+Shut me up (Shut me up)
+That's enough (That's enough)
+That's enough
+
+[Bridge: 8485]
+I don't know why I fucking miss you
+I was so cruel, times when I was with you
+But I think you're so cool, I think that you're so cool
+Will you show me how you used to do the shit you used to?
+Never even knew, I used to kill you in my bad dreams
+I'd imagine shattering my glass things, and my black screens
+I don't wanna see you looking at me
+I know that I need you, hurry back, please
+
+[Chorus: 8485]
+What's enough?
+That's enough, what's enough?
+And what's too much?
+
+[Verse 1: 8485]
+You're still here but I can't hear you
+Cover both my ears and say it like you mean it to me
+Shake me once and wait until I come to
+Wake me, wake me up-up-up-up
+
+from halations, released August 12, 2022
+produced + mixed + mastered by blackwinterwells
+written + performed by 8485
+EOF
+}
+show_I/O() {
+cat << 'EOF'
+[Chorus: 8485]
+I don't like the stars on her bedroom ceiling
+Glowing in the dark as she gets the feeling
+Nothing really hurts like it did when she was–
+Nothing really hurts like it did when she was–
+I don't like the stars on her bedroom ceiling
+Glowing in the dark as she gets the feeling
+Nothing really hurts like it did when she was–
+Nothing really hurts like it did when she was–
+I don't like the stars on her bedroom ceiling
+Glowing in the dark as she gets the feeling
+Nothing really hurts like it did when she was–
+Nothing really hurts like it did when she was–
+I don't like the stars on her bedroom ceiling
+Glowing in the dark as she gets the feeling
+Nothing really hurts like it did when she was–
+Nothing really hurts like it did when she was–
+(I don't like the stars on her bedroom ceiling)
+
+[Verse: 8485 & blackwinterwells]
+She's still young, there's still time
+Every night, she turns off the light
+She's alone, it's alright
+Every night, she can say she tried
+She's still young, there's still time
+Every night, she turns off the light
+She's alone, it's alright
+Every night, she can say she tried
+
+[Outro: blackwinterwells]
+And I know you can do it
+I don't know if you know, but I know
+Isn't that enough?
+In the moments I'm not confident in myself
+There's never been a single second where I don't believe in you
+One way or another, I promise it will all work out
+
+from halations, released August 12, 2022
+produced + mixed + mastered by blackwinterwells
+written + performed by 8485 + blackwinterwells
+EOF
+}
+show_CTRL() {
+cat << 'EOF'
+[Intro]
+Years at home
+Years at home
+Years at home, I have nothing to show for
+Years at home
+Years at home
+Years at home, I have nothing to show for
+
+[Verse 1: 8485]
+You know I can heal in a weekend
+I just always think I'm still bleeding and I'm so bored
+Numb skin grows over sores
+I don't know what I want anymore
+You can stay where you are in my head
+As a place for the blame when I'm feelin' pathetic
+I don't know who the fuck I'd have been
+If I could ever forget, I could ever forget it
+
+[Pre-Hook: 8485]
+People give me love, I can feel it, but it's hard now
+I don't need to fuck I just need to let my guard down
+Stay, it's so safe underground
+But it's cold and I'm just getting old, yeah I'm just getting older
+
+[Hook: 8485]
+I'm the emergency contact
+I want the urgency all back
+I'm your emergency contact
+I want the urge, I want my agency
+I'm the emergency contact
+I want the urgency all back
+I'm your emergency contact
+I want the urge, I want my-
+
+[Verse 2: blackwinterwells & blackwinterwells & 8485]
+Smoking packs on my own
+Hope you never call my phone
+Hope it hurts being gone
+'Cause I hate you now, you know
+Acting different, I know
+So pathetic, I know
+But I'd rather be limping than dead in the snow
+Now I can't tolerate any more of you (of you)
+
+[Outro: 8485]
+I might go and fuck my life up on purpose
+Coming down, I don't know if I deserve it
+Self-preserve 'cause I'm nervous
+I kinda miss feeling sick on the surface
+Years at home, I have nothing to show for
+Lose control when the crisis is over
+I just ache 'cause it's something I can write about
+I just stayed for somebody I could cry about
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_SODARK() {
+cat << 'EOF'
+[Intro]
+Helix tears
+
+[Verse 1]
+Always takes so long to get to you
+And I come so far to get confused
+Cause I leave my head inside my room
+Always stay in bed inside my room
+
+And you know that I love you cause I say so
+I don't trust anybody in the place though
+And I know that you love me cause you tell me
+But you don't really know me; do you really know me?
+
+[Chorus]
+So dark here, it's so dark here
+Losing track of where you are here
+Want to ask if you brought your heart here
+How close, how far, how close, how...
+So dark here, it's so dark here
+Losing track of where you are here
+Want to ask if you brought your heart here
+How close, how far, how f-f-f-
+
+[Verse 2]
+Can we know if we mean what we say?
+I forget what you said anyway
+And if I could see you everyday
+Would it start to feel better?
+Cause you're here on the couch and you're rolling
+You don't hear what your mouth says, I know it
+And you want someone else just to hold you
+Maybe I am just there
+
+[Bridge]
+So dark here, so d-dark h-
+So dark here, so dark h-
+So dark here, so d-d-dark
+So dark here, so dark here
+
+[Chorus]
+So dark here, it's so dark here
+Losing track of where you are here
+Want to ask if you brought your heart here
+How close, how far, how far away?
+
+[Verse 3]
+Drowning in blue light
+Flooding my eyesight
+Why are my eyes dry?
+I feel like high tide
+I wanna cry
+And I could type what my mind's like
+But I wanna cry
+
+And the sun starts to lose its shine
+And I start to stay up at night
+And I start to run out of time
+And I start to run
+And the sun's gonna lose its shine
+So I think I'll stay up tonight
+Cause I just wanna write these lines
+Then I want to run
+
+[Chorus]
+So dark here, it's so dark here
+Losing track of where you are here
+Want to ask if you brought your heart here
+How close, how far, how far away?
+So dark here, it's so dark here
+Listen please, it won't be long
+Listen close, it's my favorite part
+And it always feels so far away
+
+So dark here, it's so dark here
+Losing track of where you are here
+Want to ask if you brought your heart here
+How close, how far, how far away?
+So dark here, it's so dark here
+Listen please, it won't be long
+Listen close, it's my favorite part
+And it always feels so far away
+
+[Outro]
+So dark here, so dark, so dark h-h-
+So dark, dark d-d, so dark, dark h-h-
+So dark, d-d, dark here
+Helix tears
+D-D, so dark, d-d, so dark
+EOF
+}
+show_SPECIAL() {
+cat << 'EOF'
+[Intro: 8485]
+Oh, oh, oh
+Oh, oh, oh
+Oh, oh, oh
+
+[Verse 1: 8485]
+Sending you an old pic, can you recognize me?
+Look me in the eyes, please, say it's nothing like me
+Everything is great now, everything's exciting
+I can have my cake and eat all of the icing
+Keep my dreams and make them all come true
+That's why I don't really need to ask a lot of you
+Oh, just, uh, tell me, tell me why
+All my music makes you cry
+And you listen every night
+'Cause it's so goddamn cute
+
+[Refrain: 8485]
+Spe-pe-pe-pe-special, baby say I'm special
+Say I'm lovely, tell me that I'm preciou-ou-ou-ou
+Tell me that I'm good, tell me that I'm good
+Tell me that I'm good, tell me that I'm-
+
+[Verse 2: 8485]
+Looking into mirrors, I've been casting glamours in them
+I've been thinking so hard, dizzy 'cause my head is spinning
+Hyperactive non-stop, I just wanna win forever
+I don't think it's so wrong thinkin' there's nobody better
+Sleeping through the day 'cause I don't need to try
+I'm writing curses on the wall when I wake up at night
+'Cause until everybody cares, I don't think it's really fair
+And I wanna know you're there so I can feel alri-r-r-r-r
+
+[Verse 3: Alice Gas]
+P-P-P-P-Pressure, I'm smoking pressure
+I just wanna know when I'll feel better
+Try so hard but I'll never forget her
+All I wanted was a Gucci-Louis sweater
+I swear, I don't really know what to say to you
+I don’t know why these dudes biting everything I do
+Got tears on my keyboard 'cause I'm missing you
+Yeah, I'm missing you
+
+[Bridge: 8485]
+Special, baby say I'm special
+Say I'm lovely, tell me that I'm precious
+Tell me that I'm good, tell me that I'm good
+Tell me that I'm good, tell me that I'm-
+Special, baby say I'm special
+Say you love me, tell me it's excessive
+Keep my avi on your Famous Friends list
+Keep on lookin' at me, I'm your new obsession
+
+[Chorus: 8485]
+I give up but I don't want to give it up
+I leave it up to you
+Enough is what I never knew
+Stuck in your head like superglue
+I hate love but I don't want to give it up
+I leave it up to you
+[Post-Chorus: 8485]
+Everything I'll ever do
+Stuck in your head like superglue
+Stuck in your head like superglue
+
+[Refrain 2: 8485]
+Special, baby say I'm special
+Say you love me, tell me that I'm precious
+Tell me that I'm good, tell me that I'm good
+Tell me that I'm good, tell me that I'm good
+
+[Outro: 8485]
+Special, baby say I'm special
+Special, baby say I'm special
+Special, baby say I'm special
+Special
+Special
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_SKINZ() {
+cat << 'EOF'
+[Intro]
+Helix Tears
+I'll be numb as usual, as usual
+I'll be numb
+​​p-powerdoll
+
+[Chorus]
+Baby, somebody loves you
+That's why you don't get to run, you don't get to run
+Because there's nowhere to run to
+From the place where you're stuck, always giving a fuck
+About somebody who loves you
+So you don't get to lose it, like your friends and the movies
+You pretend that you're moving
+'Cause you want to, you're such a liar, you're such a child
+You're such a liar, you're such a child, I don't care
+You're such a liar, you're such a child
+
+[Verse 1]
+Sorry, selfish girl, you're not helpless anymore
+You used to blame the world, I used to take you at your word
+You get so angry and claim defense when you attack
+I know you hate it, they never even hate you back
+
+[Chorus]
+Baby, somebody loves you
+That's why you don't get to run, you don't get to run
+Because there's nowhere to run to
+From the place where you're stuck, always giving a fuck
+About somebody who loves you
+So you don't get to lose it, like your friends and the movies
+And put everyone through it, like you want to
+You're such a liar, you're such a child, I don't care
+
+[Verse 2]
+I'll be numb, just to keep it calm
+And to carry on the same as usual, as usual
+And I'll be scared and pull out all my hair
+But keep them all right there, the same as usual, as usual
+
+[Outro]
+Such a liar, such a child
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_IWANTTHESONG2NEVEREND() {
+cat << 'EOF'
+[Intro]
+I want to be alone for now
+I don't know why I feel this way
+Light flows into a sober pool
+I float and give my weight away
+I want to be alone for now
+I don't know why I feel this way
+
+[Verse]
+Coolest kids on the block since 13
+You should know I never really wanna say goodbye
+We're grown up so if one thing isn't working
+Then we move, yeah we change, cause' you're worth the try
+Yeah you're worth the try, looked into your eyes
+Think I saw that little glimmer for the first time
+In a long time, knew it would be alright
+Can you hear the angels cause they're singing to you all night
+Saying don't be scared, its okay
+You did the right thing, for today
+For a while, this won't make
+Any sense, but anyway
+Life is dumb and love is strange
+It always wants to take new shapes
+Shining through your bedroom grate
+Screaming out "be not afraid"
+
+[Outro]
+I know that I'll see you again
+I'm sorry that I can't say just when
+I like the way you are my friend
+I want the song to never end
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_115() {
+cat << 'EOF'
+[Verse 1]
+I'm getting butterflies, like, what the hell?
+When I'm still feeling right all by myself
+You never notice and it's just as well
+I need to focus on my health, need to focus on my health
+But when I don't have anything to do
+Sometimes I sit around and think of you
+It's so embarrassing, but girl, it's true
+What would you tell me if you knew? What would you tell me if you knew?
+
+[Verse 2]
+So, you think that you have nice hands?
+I still know where I stand
+Talk to me at night if you're ever bored
+High school Ojou
+Everybody knows you
+Anywhere you go, you could be adored
+And it hurts my pride when you make me smile
+'Cause they fall all over you, like, all the time
+And when we chill, it's fine
+Don't wanna make you mine
+Or be another silly girl who's got you on her mind
+
+[Bridge]
+I'm just another silly girl who's got you on her mind
+
+[Chorus]
+Yeah, I think of you a lot
+But don't worry, 'cause it's not like I need you now
+I'm not tryna be your man
+I'd just like to hold your hand next time we hang out
+And I wanna be your friend
+I don't wanna let it get out and freak you out
+I'm not tryna be your man
+I'd just like to hold your hand next time we hang out
+Yeah, I think of you a lot
+But don't worry, 'cause it's not like I need you now
+I'm not tryna be your man
+I'd just like to hold your hand next time we hang out
+
+[Outro]
+And I don't do love
+I just know someone who I can think about
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_SUBLIM8() {
+cat << 'EOF'
+[Intro]
+Helix Tears
+I'm always falling apart
+Always wasting the night
+Wasting everything when I think of you
+Tell me the reason why
+Now I can never trust you
+
+[Verse 1]
+What you need, beck and call
+What I got, I would give it all
+Not enough, never stop
+Never stop, it never stops
+Let me sleep, don't want to die
+Touch heaven, everything is fine
+Seven years, itch and ache
+Simulated love
+Poor, poor thing
+
+[Chorus]
+I'm always falling apart
+Always wasting the night
+Wasting everything when I think of you
+Tell me the reason why
+Tell me that I should trust you
+I'm always falling apart
+Always leaving behind
+All the memories that I think about
+I gave you everything
+Now, I can never trust you
+
+[Verse 2]
+Never heal, never feel again
+I was real, I was your best friend
+[?]
+I want to leave my skin
+Can't forgive me, can't be free
+Hurt you while you're hurting me
+These words are loveless
+Dark and deep
+And we may neither oust nor keep
+I couldn't hate you, understand
+Take your face in both my hands
+Mirror you, I turn to smoke
+We saw the signals, let it go
+
+[Chorus]
+I'm always falling apart
+Always wasting the night
+Wasting everything when I think of you
+Tell me the reason why
+Tell me that I should trust you
+I'm always falling apart
+Always leaving behind
+All the memories that I think about
+I gave you everything
+Now, I can never trust you
+[Bridge]
+Always falling apart, always falling apart
+Always falling apart, always falling apart
+Give me something
+Give me, uh
+Give me something good!
+
+[Outro]
+I'm always falling apart
+Always wasting the night
+Wasting everything when I think of you
+Now give me something good
+Something I can hold onto
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_4REAL() {
+cat << 'EOF'
+[Intro: Laura Les]
+Umru said I'm cute
+
+[Chorus: 8485]
+Last night, I had this weird dream and you were there
+Standing inside this room I've been thinking about
+I can't remember if the place was real
+But I was real and you were there
+And I was there for real
+
+[Verse 1: 8485]
+I could look but I couldn't touch therein
+And something was there between me and you, but, um
+There was something between you and me
+Like, do you get what I mean?
+(Do you get what I mean?)
+
+It gives me thе creeps
+Sometimes I can't remember if I fell asleep or if I'm still awake
+And half across the street I saw you
+And I couldn't work out how to speak
+(Work out how to speak)
+
+[Chorus: 8485]
+Last night, I had this weird dream and you were there
+Standing inside this room I've been thinking about
+I can't remember if the place was real
+But I was real and you were there
+And I was there for real
+
+[Post-Chorus: 8485]
+And it made me feel for real
+And it made it feel so real
+And it made me feel for real
+And it made it feel so real
+And it made me feel for real
+And it made it feel so real
+And it kinda felt surreal
+But, that made it feel so
+
+[Verse 2: Petal Supply]
+Hey, I think I saw you in my dream
+And I know you don't know me
+But could I get your number?
+Maybe we could talk and make this for real
+
+It just gets hard to tell if you're for real
+I'm not obsessed with you or anything
+I just think of you sometimes
+And you could be the one that could taunt me in a dream
+And I wish you were for real
+
+[Bridge: 8485]
+Try to keep my head from getting heavy
+And then rolling off my neck
+I keep forgetting because it's so hard to tell
+Today from yesterday or tomorrow, oh well
+[Pre-Chorus: 8485]
+Lights in your room synced up with sounds from my cell phone
+I wondered what you do and if you feel alone
+Suddenly, I was climbing up through your window
+I'm such a klutz
+I fell and I died (oh no!)
+
+[Chrous: 8485]
+Last night, I had this weird dream and you were there
+Standing inside this room I've been thinking about
+I can't remember if the place was real
+But I was real and you were there
+And I was there for real
+
+[Post-Chorus: 8485]
+And it made me feel for real
+And it made it feel so real
+And it made me feel for real
+And it made it feel so real
+And it made me feel for real
+And it made it feel so real
+And it kinda felt surreal
+But, that made it feel so
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_YEAHYEAHYEAH() {
+cat << 'EOF'
+[Intro]
+(Helix Tears)
+
+[Chorus]
+Yeah, yeah, yeah
+I knew it all along
+I knew it from the very start
+And I felt it in my heart
+If there's even one to feel
+
+[Verse 1]
+I bought you a gift
+It's a picture frame for my face
+When you decide to place me in the past
+'Cause nothing lasts
+Nothing lasts
+No, nothing lasts
+
+[Chorus]
+Yeah, yeah, yeah
+I knew it all along
+I knew it from the very start
+And I felt it in my heart
+If there's even one to feel
+Yeah, yeah, yеah
+I knew it all along
+I knew it from the vеry start
+And I felt it in my heart
+If there's even one to feel
+
+[Verse 2]
+(wells)
+You're taking off your clothes
+I hear echoes of her breathing
+But she is fading into the past
+At last
+At long last
+(At long last)
+
+[Chorus]
+Yeah, yeah, yeah
+I knew it all along
+I knew it from the very start
+And I felt it in my heart
+If there's even one to feel
+
+[Bridge]
+Let me be!
+Let me alone!
+Water me
+My memories are wilting
+
+[Chorus]
+Yeah, yeah, yeah
+I knew it all along
+I knew it from the very start
+And I felt it in my heart
+If there's even one to feel
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_ITMAKESMESOSAD() {
+cat << 'EOF'
+[Chorus: 8485]
+So if you know me better than I know me
+Why'd you always get it wrong?
+Taking all the thoughts going out of mud
+You don't even listen to me when I talk
+You make me feel bad, don't know why we're friends
+This isn't correct and it isn't happy
+You wanna protect everything you tell me
+It makes me so sad what you say about me
+
+[Verse 1: Dolly]
+It made me so sick what you said about me
+I watch it all crash, watch it burn around me
+It makes me so sad when you turn around me
+The way you kept it all in, it really astounds me
+I thought it over and there's some things I can take back
+Thе years I'm feeling sick but I've stayed back
+I bеt you said some things you can't take back
+I can't get over my things, I can't face it
+
+[Chorus: 8485]
+So if you know me better than I know me
+Why'd you always get it wrong?
+Taking all the thoughts going out of mud
+You don't even listen to me when I talk
+You make me feel bad, don't know why we're friends
+This isn't correct and it isn't happy
+You wanna protect everything you tell me
+It makes me so sad what you say about me, about me
+
+[Verse 2: blackwinterwells]
+I've been dead for two weeks
+I've been crawling ugly
+What they say about me, it hurts my feelings
+I don't believe them
+I think you treat me wrong
+I sing your favorite songs
+You think it's cute when I'm in pain
+Against me all along
+
+[Verse 3: 8485]
+You write between all the lines
+You think you're reading my mind
+But this is all pseudoscience
+Constructing what you don't find
+You see the things that you try to
+You say that we're so alike
+But I'm not anything like you
+Don't get why you're so unkind
+
+[Outro: 8485]
+Don't know why we're friends
+It makes me so sad what you say about me
+You make me feel bad, don't know why we're friends
+It makes me so sad what you say about me
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_DURESS() {
+cat << 'EOF'
+[Chorus]
+Always looking behind me
+I wanna find out where I stand
+Figure the stains out on my hands
+Running away without a plan
+Terrible child, waking up miles and miles
+Adrift from sight of land
+Letting my ship get lost again
+Screaming "so catch me if you can"
+
+[Verse 1]
+What could you need you don't already see here?
+Don't be so naive, girl
+They'll eat you alive
+Well I'm not afraid of friendly teeth
+Or jaws that just pretend to be
+There's not much left for me
+But seeing what it's like
+If I crash and the rocks are a lot like the last
+Well I promise, I'm not going back
+So you don't need to know where I'm at
+No, you don't need to know that, cause I
+Swear to God I am not likе the kid
+Who did all of the things that I did
+So if I take thе risk and I win
+Then you don't need to know
+
+[Chorus]
+Always looking behind me
+I wanna find out where I stand
+Figure the stains out on my hands
+Running away without a plan
+Terrible child, waking up miles and miles
+Adrift from sight of land
+Letting my ship get lost again
+Screaming "so catch me if you can"
+
+[Verse 2]
+Still running through the same old blurs
+And I'm digging in the dirt, you said "show me where it hurts"
+I try to get the feeling back from dead and damaged nerves
+I don't know why I do
+Just trust me, let me go, I'm gone
+Just protect me from what I want
+Oh God, it's all my fault
+You let me get it wrong
+I made a scene again and I know you were waiting for it
+And this is all pretend, I'm playing and you're paying for it
+It's in my head, I tried to escape
+But I need this place, pull me back and take
+All my weapons away, nothing left in my range
+Reaching out from my bed while it asks me to stay
+With polite little lies and white lights in my face
+I'm so sick, I'm so tired, watch me make me behave
+
+from alpha testing, released December 4, 2020
+EOF
+}
+show_L33CH() {
+cat << 'EOF'
+[Intro: JOHNNASCUS]
+(Waste of time, I waste my time)
+(Waste of time, I waste my time)
+(Waste of time, I waste my time)
+
+[Chorus: 8485 & JOHNNASCUS]
+God, don't say something nice
+Just to get my advice
+Please don't beg for my time
+I like the friends I already got (Yeah)
+You think you're so sweet
+You're just hiding your teeth
+Name one thing about me
+I like the friends I've already got
+
+[Verse 1: JOHNNASCUS]
+Wh-wh-what I got are friends with no faces (Yeah)
+What is human? I'll go and replace them (Yеah)
+With the clones of a young demigod
+I just wantеd to feel somethin'
+But every day I just feel nothin'
+I just wanted to feel somethin'
+But every day I just feel nothing
+
+[Verse 2: 8485, 8485 & JOHNNASCUS]
+And I'm pissed off
+Just tell me what you want
+I know it's not to talk
+I'm just waiting for the act to drop
+And I am so pissed off
+Just tell me what you want
+I know it's not to talk
+I'm just waiting for the act to drop because it always does (Yeah)
+
+[Chorus: 8485 & JOHNNASCUS]
+Don't say something nice
+Just to get my advice (Bye)
+Please don't beg for my time
+I like the friends I already got (Yeah)
+You think you're so sweet
+You're just hiding your teeth (Hiding)
+Name one thing about me
+I like the friends I've already got
+
+[Refrain: 8485]
+Oh my G-o-o-o-o-o-o-d
+Leave me alone, I won't do it for free anymore
+Leave me alone, I won't do it for free anymore
+Leave me alone, I won't do it
+
+[Outro: 8485]
+Hi, you've reached Pincode
+I'm ignoring my phone right now, so please don't leave a message
+Bye
+
+from alpha testing, released December 4, 2020
+EOF
+}
+
+show_girl() {
+cat << 'EOF'                                    
+✮ ⋆ ˚｡𖦹 ⋆｡°✩♫⋆｡♪₊♬ﾟ.♡♫⋆｡♪₊♬ﾟ.✮ ⋆ ˚｡𖦹 ⋆｡°✩
+lyrics
+[eighty:]
+U want to meet me in real life
+U need to see me in real life
+I'm on your TV in real life
+U can't believe it's not real life
+
+U wish you knew me in real life
+Do what I do but in real life
+Get up to no good in real life
+Cause it feels so good in real life
+So good in real life
+
+So good in real life
+So G.I.R.L.
+So G.I.R.L.
+So G.I.R.L.
+Cause it feels so good in real life
+So G.I.R.L.
+So G.I.R.L.
+So G.I.R.L.
+
+How would U treat me in real life?
+R U this creepy in real life?
+U don't impress me in real life
+U wouldn't test me in real life
+
+I'm getting messy in real life
+They should arrest me in real life
+It's like a show but it's real life
+And it feels so good in real life
+
+So good in real life, it feels so good in real life
+
+[danny:]
+(Check)
+Life's like a movie, don't know how it ends
+Is this real life? Are you playing pretend?
+Cause you don't know me and I don't know you
+If your wish my command, I make dreams come true
+
+No faking, ain't a simulation
+Caught in 4K in a real situation
+Lost in a dream or stuck behind a screen
+Till reality hits and edit out the scene
+
+Let's get it started, we bout to set it off
+Talking like you know me but we never met at all
+Put it up, bet it all
+Double down, get it all
+Let it all out and show me what you about
+
+Cut all the acting, ignore distraction
+Let's make it happen, slate close, it's action
+Cut all the acting, ignore distraction
+Let's make it happen, slate close, it's action
+
+Cause I look better in real life
+I'll check a hater in real life
+I'll see ya later in real life
+I can't believe that this real life
+
+. . .
+
+[eighty:]
+I want to meet U in real life
+credits
+released April 24, 2025
+written + performed by 8485 + Danny Brown
+produced by Doin' Fine
+mixed + mastered by BOBBIE
+cover art by Josie Eccleston + 8485
+license
+all rights reserved'
+EOF
+}
+show_Idontwanttohurthim.Ilikehim.() {
+cat << 'EOF'
+gonna get out of this car right now
+i swear to God i'm gone
+
+the second i said it, i felt the seconds slow down
+
+i don't remember most of those nights
+most of those nights
+i don't remember most of those nights most of the time
+credits
+released February 20, 2025
+produced by Gore Girl. vocals + lyrics by 8485. additional mixing by kaynives
+EOF
+}
+show_DROWNU() {
+cat << 'EOF'
+[Chorus 1]
+We do what you're never gonna figure out how to
+I'm just making it about you 'cause it's fun to fantasize
+Found you with the spoils of the rotten things around you
+And now all I really wanna do is drown you out
+All I wanna do is drown you
+
+[Verse]
+You've got yourselves
+It's a matter of time, tell your friends
+Feel the hell you've been giving to mine
+It must be so convenient to always be right when you're makin' a name off of what you don't like and a lotta noise
+
+[Bridge]
+So loud, I can hardly hear myself think
+Your mouth moves, there's nothing you can tell me
+I'll have to harm if you're helping
+Other hеlping, help me
+So loud, I can hardly hear mysеlf think
+Your mouth moves, there's nothing you can tell me
+I'll have to harm if you're helping
+Other helping, help me
+
+[Chorus 2]
+We do everything you only ever want to
+And I think that's gonna haunt you and it's hard to sympathize
+How'd you find a way to ruin everything around you
+Baby, all I really wanna do is drown you out
+All I wanna do is drown you, drown you, drown you
+
+released January 7, 2021
+guitar + production by telebasher
+mixing + mastering by blackwinterwells
+EOF
+}
+show_whimper() {
+cat << 'EOF'
+[Verse 1: blackwinterwells]
+Lost another head to heart attacks
+Falling in streets, the sky is black
+Thought there'd be light or awful sound
+But the silence clangs against the ground
+There's nothing here
+No sign, no portent, so unclear
+You pressed the button, watched us rot
+And left us there, grey clouds and tears
+
+[Chorus: 8485]
+I wasted it, I wasted it
+You changed the rules and I didn't know
+I didn't notice
+I hate the way it all just looks the same as it did before
+I guess I thought you'd give us more
+I guess I thought you'd givе us more
+
+[Verse 2: 8485]
+Burning rubber in the distancе
+No brimstone
+Fainter than a whisper
+I'm sinking
+Did you ever listen?
+Are you even listening?
+Are you even coming back?
+Same old smoke in the air
+You swore the signs would be more clear
+I close my eyes, I'll lie right here
+If you don't care, then I don't care
+If you don't care, then I don't care
+If you don't care, then I don't care
+If you don't care, then I don't care
+If you don't care, then I don't care
+
+[Chorus: 8485]
+You wasted it, you wasted it
+You changed the rules, how was I to know?
+Was I to notice?
+I hate the way it all just looks the same as it did before
+I'll go before the concrete floors
+I'll go before the concrete floors
+
+[Outro: 8485]
+I hate the way it all just looks the same as it did before
+I guess I thought you'd give us more
+
+released March 1, 2021
+written by 8485 + blackwinterwells
+backing vocals by johnnascus
+produced + mixed + mastered by blackwinterwells
+EOF
+}
+
+open_support() {
+  SUPPORT_URL="https://warehost.bandcamp.com/"
+  xdg-open "$SUPPORT_URL" >/dev/null 2>&1 &
+  echo "Opening support forum: $SUPPORT_URL"
+}
+
+case "$1" in
+  bio)
+    show_bio
+    ;;
+  music)
+    open_music
+    ;;
+  support)
+    open_support
+    ;;
+  disco)
+    show_disco
+    ;;
+  girl)
+    show_girl
+    ;;
+  idontwanttohurthim.ilikehim.)
+    show_Idontwanttohurthim.Ilikehim.
+    ;;
+  drownu)
+    show_DROWNU
+    ;;
+  whimper)
+    show_whimper
+    ;;
+  personalprotocol)
+    show_personalprotocol
+    ;;
+  plaguetown)
+    show_plaguetown
+    ;;
+  softwaregore)
+    show_softwaregore
+    ;;
+  halatations)
+    show_halatations
+    ;;
+  alphatesting)
+    show_alphatesting
+    ;;
+  COOLDNBSONG)
+    show_COOLDNBSONG
+    ;;
+  SAMETASKS)
+    show_SAMETASKS
+    ;;
+  PRECIPICE)
+    show_PRECIPICE
+    ;;
+  BREAKERS)
+    show_BREAKERS
+    ;;
+  ATLANTIS)
+    show_ATLANTIS
+    ;;
+  SCRIBBLES)
+    show_SCRIBBLES
+    ;;
+  3CHEERS)
+    show_3CHEERS
+    ;;
+  HANGAR)
+    show_HANGAR
+    ;;
+  PURGATORY)
+    show_PURGATORY
+    ;;
+  SEER)
+    show_SEER
+    ;;
+  PURE)
+    show_PURE
+    ;;
+  SOUTHVIEW)
+    show_SOUTHVIEW
+    ;;
+  GOREBLOG)
+    show_GOREBLOG
+    ;;
+  SOMETHINGBAD)
+    show_SOMETHINGBAD
+    ;;
+  80906)
+    show_80906
+    ;;
+  ANTHROPOL)
+    show_ANTHROPOL
+    ;;
+  HALO3)
+    show_HALO3
+    ;;
+  I/O)
+    show_I/O
+    ;;
+  CTRL)
+    show_CTRL
+    ;;
+  SODARK)
+    show_SODARK
+    ;;
+  SPECIAL)
+    show_SPECIAL
+    ;;
+  SKINZ)
+    show_SKINZ
+    ;;
+  IWANTTHESONG2NEVEREND)
+    show_IWANTTHESONG2NEVEREND
+    ;;
+  115)
+    show_115
+    ;;
+  SUBLIM8)
+    show_SUBLIM8
+    ;;
+  4REAL)
+    show_4REAL
+    ;;
+  YEAHYEAHYEAH)
+    show_YEAHYEAHYEAH
+    ;;
+  ITMAKESMESOSAD)
+    show_ITMAKESMESOSAD
+    ;;
+  DURESS)
+    show_DURESS
+    ;;
+  L33CH)
+    show_L33CH
+    ;;
+
+
+  *)
+    echo "
+!    .__           .__          
+!    |  |__   ____ |  | ______  
+!    |  |  \_/ __ \|  | \____ \ 
+!    |   Y  \  ___/|  |_|  |_> >
+!    |___|  /\___  >____/   __/ 
+!         \/     \/     |__|    "
+    echo "8485 bio     # Learn briefly about the artist 8485"
+    echo "8485 disco   # Show list of available songs on Bandcamp"
+    echo "8485 music   # Opens Rythmbox"
+    echo "8485 support # Open link to Bandcamp"
+    ;;
+esac
