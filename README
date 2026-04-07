@@ -1,0 +1,11 @@
+Welcome to my first CLI project! I am new to linux and writing shell commands, so I will explain as if we are BOTH new to this experience. If you know what you're doing, feel free to ignore this OR message me on discord @oakienlookie so I can update this disclaimer. SO . . . 
+
+Attached to this folder is the CLI named 8485. ADD THE 8485 FILE to your home folder (~)
+then, open your terminal and run these 3 commands.
+
+mkdir -p ~/.local/bin
+mv 8485  ~/.local/bin/8485
+chmod +x ~/.local/bin/8485
+
+after this, you will be able to run (8485) commands and ENJOY!!
+
